@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613074802 source:c:\users\besitzer\desktop\uni\2 - algorithmen und datenstrukturen\maßrechner\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+
